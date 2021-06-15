@@ -10,7 +10,7 @@ _You can survive three minutes without air, three hours in a harsh environment (
   * [Food](#food)
   * [Clothing](#clothing)
 - [Non Essentials](#non-essentials)
-  * [Small Handy Items](#small-handy-items)
+  * [Handy Items](#handy-items)
   * [Hygeine](#hygeine)
   * [Campsite Luxuries](#campsite-luxuries)
   * [Bed Time Luxuries](#bed-time-luxuries)
