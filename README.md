@@ -13,7 +13,7 @@ To keep you alive and (mostly) comfortable!
 - Hammock and Rain Fly (or Tent)
 
 ### Water
-- MSR Water Filter
+- **MSR Water Filter**
 - Nalgene Water Bottle (or Bladder for Pack)
 
 ### Food
@@ -61,11 +61,11 @@ To make your life easier
 - All Purpose Rag
 
 ### Campsite Luxuries
-- Morning Coffee with Jetboil French Press
+- Morning Coffee with **Jetboil French Press**
 - Chair
-- Big Bright Lantern
-- Music
-- Power Brick
+- **Big Bright Lantern**
+- **Music**
+- **Power Brick**
 - Comfy Shoes
 
 ### Bed Time Luxuries
