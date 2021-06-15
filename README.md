@@ -29,7 +29,7 @@ To keep you alive and (mostly) comfortable!
 - Nalgene Water Bottle (or Bladder for Pack)
 
 ### Food
-- Jetboil and Gas
+- **Jetboil and Gas**
 - 1 "Fancy Meal" per Day. Such as...
   - Mountain House Meal
   - Homemade precooked Vacuum Seal Meal
