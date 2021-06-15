@@ -65,13 +65,13 @@ To make your life easier
 - 550 Cord
 - Carabeaner (or other convenient way to hang your pack up)
 - Spoon
+- All Purpose Rag
 - **Saw**
 - Fire Starter
 ### Hygeine
 - Toothbrush and Paste
 - Toilet Paper
 - Hand Sanitizer
-- All Purpose Rag
 
 ### Campsite Luxuries
 - Morning Coffee with **Jetboil French Press**
