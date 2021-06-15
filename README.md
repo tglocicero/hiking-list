@@ -58,14 +58,15 @@ To keep you alive and (mostly) comfortable!
 
 To make your life easier
 
-### Small Handy Items
+### Handy Items
 - Lighter
 - Headlamp
 - Knife
 - 550 Cord
 - Carabeaner (or other convenient way to hang your pack up)
 - Spoon
-
+- **Saw**
+- Fire Starter
 ### Hygeine
 - Toothbrush and Paste
 - Toilet Paper
