@@ -4,6 +4,18 @@ Safety First!
 
 _You can survive three minutes without air, three hours in a harsh environment (extreme heat or cold), three days without water, and three weeks without food._
 
+- [Essentials](#essentials)
+  * [Shelter](#shelter)
+  * [Water](#water)
+  * [Food](#food)
+  * [Clothing](#clothing)
+- [Non Essentials](#non-essentials)
+  * [Small Handy Items](#small-handy-items)
+  * [Hygeine](#hygeine)
+  * [Campsite Luxuries](#campsite-luxuries)
+  * [Bed Time Luxuries](#bed-time-luxuries)
+  * [Entertainment](#entertainment)
+
 ## Essentials
 
 To keep you alive and (mostly) comfortable!
