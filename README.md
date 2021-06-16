@@ -23,6 +23,7 @@ To keep you alive and (mostly) comfortable!
 ### Shelter
 - Sleeping Bag and Pad
 - Hammock and Rain Fly (or Tent)
+- Backpack Rain Cover
 
 ### Water
 - **MSR Water Filter**
@@ -68,6 +69,9 @@ To make your life easier
 - All Purpose Rag
 - **Saw**
 - Fire Starter
+- Big Trash Bag
+- Little Ziplock Baggies
+
 ### Hygeine
 - Toothbrush and Paste
 - Toilet Paper
