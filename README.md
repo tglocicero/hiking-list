@@ -31,6 +31,7 @@ To keep you alive and (mostly) comfortable!
 
 ### Food
 - **Jetboil and Gas**
+- Food Sack
 - 1 "Fancy Meal" per Day. Such as...
   - Mountain House Meal
   - Homemade precooked Vacuum Seal Meal
