@@ -22,7 +22,7 @@ To keep you alive and (mostly) comfortable!
 
 ### Shelter
 - Sleeping Bag and Pad
-- Hammock and Rain Fly (or Tent)
+- Hammock and Rain Fly plus Straps (or Tent)
 - Backpack Rain Cover
 
 ### Water
